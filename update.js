@@ -1,5 +1,5 @@
 var thehtml = `<h3>Recent Updates (Online)</h3>
-   <p>No updates at this time.</p>`;
+   <p>OlyWay Schedule Today.</p>`;
 
 document.getElementById("thesub").innerHTML = thehtml;
  
