@@ -1,5 +1,5 @@
 var thehtml = `<h3>Recent Updates (Online)</h3>
-   <h4>Welcome to the new Bear App! Please help your peers get on the app.</h4>`;
+   <h4>No new updates.</h4>`;
 
 document.getElementById("thesub").innerHTML = thehtml;
  
