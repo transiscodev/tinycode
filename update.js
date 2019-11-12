@@ -4,7 +4,7 @@ Special Schedule Week:<br>
 <ul>
 <li>Monday    NO SCHOOL</li>
 <li>Tuesday  'A' Schedule</li>
-<li>Wendsday 'B' Schedule</li>
+<li>Wednesday 'B' Schedule</li>
 <li>Thursday 'C' Schedule with Bear Time</li>
 <li>Friday   'C' Schedule with make up Vet's Assembly</li>
 </ul>
