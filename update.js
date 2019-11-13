@@ -8,6 +8,7 @@ Special Schedule Week:<br>
 <li>Thursday 'C' Schedule with Bear Time</li>
 <li>Friday   'C' Schedule with make up Vet's Assembly</li>
 </ul>
+<br> <I>No Bear Crew meeting on Thursday or Friday.</I>
 </h4>`;
 
 document.getElementById("thesub").innerHTML = thehtml;
