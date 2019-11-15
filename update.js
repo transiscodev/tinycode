@@ -1,5 +1,5 @@
 var thehtml = `<h3>Recent Updates (Online)</h3>
-   <h4>UPDATED FRIDAY 8:30 AM<br>
+   <h4>UPDATED FRIDAY 9 AM<br>
 Special Schedule Week:<br>
 <ul>
 <li>Monday    NO SCHOOL</li>
