@@ -315,7 +315,48 @@ z-index: auto;
 -webkit-text-stroke-color: rgb(255, 255, 255);
 -webkit-text-stroke-width: 0px;
 "
-href="https://www.purplepass.com/#193941/Olympia_School_District_-_Theater_Productions-OHS_Theatre_Arts_Presents:_TRAP-Olympia_High_School-November-16-2019.html" data-theme="b" target="_blank" data-role="button"><span class="ui-btn-inner"><span class="ui-btn-text">Buy or View Tickets</span></span></a>
+href="https://www.purplepass.com/#193941/Olympia_School_District_-_Theater_Productions-OHS_Theatre_Arts_Presents:_TRAP-Olympia_High_School-November-16-2019.html" data-theme="b" target="_blank" data-role="button"><span class="ui-btn-inner"
+ style="
+border-bottom-color: rgba(255, 255, 255, 0.3);
+border-left-color: rgba(255, 255, 255, 0.3);
+border-right-color: rgba(255, 255, 255, 0.3);
+border-top-color: rgba(255, 255, 255, 0.3);
+border-top-style: solid;
+border-top-width: 1px;
+color: rgb(255, 255, 255);
+cursor: pointer;
+display: block;
+font-family: Helvetica, Arial, sans-serif;
+font-size: 16px;
+font-weight: 700;
+min-width: 12px;
+overflow: hidden;
+overflow-x: hidden;
+overflow-y: hidden;
+padding-bottom: 9.6px;
+padding-left: 20px;
+padding-right: 20px;
+padding-top: 9.6px;
+position: relative;
+text-align: center;
+text-overflow: ellipsis;
+text-shadow: rgb(25, 75, 126) 0px 1px 1px;
+white-space: nowrap;
+"><span class="ui-btn-text"
+ style="
+color: rgb(255, 255, 255);
+cursor: pointer;
+font-family: Helvetica, Arial, sans-serif;
+font-size: 16px;
+font-weight: 700;
+position: relative;
+text-align: center;
+text-shadow: rgb(25, 75, 126) 0px 1px 1px;
+white-space: nowrap;
+width: 100%;
+z-index: 1;
+-moz-user-select: none;
+">Buy or View Tickets</span></span></a>
 `;
 
 document.getElementById("thesub").innerHTML = thehtml;
