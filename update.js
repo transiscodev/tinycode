@@ -1,4 +1,6 @@
 var thehtml = `
+<link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jquerymobile/1.4.5/jquery.mobile.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquerymobile/1.4.5/jquery.mobile.min.js"></script>
 <h3>Recent Updates (Online)</h3>
 Tonight is the final night of "TRAP", the Autumn play at OHS.<br>
 Come find out what the secret is at this final performance.<br>
