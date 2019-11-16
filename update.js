@@ -3,7 +3,9 @@ var thehtml = `
 Tonight is the final night of "TRAP", the Autumn play at OHS.<br>
 Come find out what the secret is at this final performance.<br>
 Tickets are on sale online until 7:30 PM. Doors open at 7 PM and the perfromace starts at 7:30 PM.<br>
-<a style="background-attachment: scroll;
+<a style="
+min-height: 17.6px;
+background-attachment: scroll;
 background-clip: border-box;
 background-color: rgb(57, 107, 158);
 background-image: linear-gradient(rgb(95, 156, 197), rgb(57, 107, 158));
