@@ -1,4 +1,4 @@
-var thehtml = `
+var thehtml = `<div style = "width=device-width; initial-scale=1; maximum-scale=1; user-scalable=no">
 <h3>Recent Updates (Online)</h3>
 Tonight is the final night of "TRAP", the Autumn play at OHS. Come find out what the secret is at this final performance. Tickets are on sale online until 7:30 PM. Doors open at 7 PM and the perfromace starts at 7:30 PM.<br>
 <a style="
@@ -356,7 +356,7 @@ white-space: nowrap;
 width: 100%;
 z-index: 1;
 -moz-user-select: none;
-">Buy or View Tickets</span></span></a>
+">Buy or View Tickets</span></span></a></div>
 `;
 
 document.getElementById("thesub").innerHTML = thehtml;
