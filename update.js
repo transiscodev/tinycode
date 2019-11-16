@@ -315,7 +315,7 @@ z-index: auto;
 -webkit-text-stroke-color: rgb(255, 255, 255);
 -webkit-text-stroke-width: 0px;
 "
-href="https://www.purplepass.com/#193941/Olympia_School_District_-_Theater_Productions-OHS_Theatre_Arts_Presents:_TRAP-Olympia_High_School-November-16-2019.html" data-theme="b" target="_blank" data-role="button">Buy or View Tickets</a>
+href="https://www.purplepass.com/#193941/Olympia_School_District_-_Theater_Productions-OHS_Theatre_Arts_Presents:_TRAP-Olympia_High_School-November-16-2019.html" data-theme="b" target="_blank" data-role="button"><span class="ui-btn-inner"><span class="ui-btn-text">Buy or View Tickets</span></span></a>
 `;
 
 document.getElementById("thesub").innerHTML = thehtml;
