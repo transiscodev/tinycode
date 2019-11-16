@@ -1,8 +1,4 @@
 var thehtml = `
-<link rel="stylesheet" href="https://bears23.bitbucket.io/jquery.mobile-1.2.1.min.css" />
-<link rel="stylesheet" href="https://bears23.bitbucket.io/jquery.mobile.structure-1.2.1.min.css" />
-<script src="https://bears23.bitbucket.io/jquery-1.8.3.min.js"></script>
-<script src="https://bears23.bitbucket.io/jquery.mobile-1.2.1.min.js"></script>
 <h3>Recent Updates (Online)</h3>
 Tonight is the final night of "TRAP", the Autumn play at OHS.<br>
 Come find out what the secret is at this final performance.<br>
