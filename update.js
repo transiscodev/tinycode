@@ -1,6 +1,6 @@
 var thehtml = `
 <h3>Recent Updates (Online)</h3>
-<br> "A" Schedule today`;
+<br>Regular schedule all week.`;
 
 document.getElementById("thesub").innerHTML = thehtml;
  
