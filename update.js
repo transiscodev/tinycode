@@ -1,6 +1,6 @@
 var thehtml = `
 <h3>Recent Updates (Online)</h3>
-Classes on Monday and Tuesday only.`;
+Monday & Tuesday are "A" Schedule.`;
 
 document.getElementById("thesub").innerHTML = thehtml;
  
