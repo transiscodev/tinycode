@@ -1,4 +1,4 @@
 var thehtml = `
 <h3>Recent Updates (Online)</h3>
-Monday: A`
+Regular Week`
 document.getElementById("thesub").innerHTML = thehtml;
