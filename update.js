@@ -1,4 +1,4 @@
 var thehtml = `
 <h3>Recent Updates (Online)</h3>
-No Updates.`
+OlyWay Schedule Today`
 document.getElementById("thesub").innerHTML = thehtml;
