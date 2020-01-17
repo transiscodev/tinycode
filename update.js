@@ -92,5 +92,5 @@ var thehtml = `
 <p>All Students <strong>report to class at the beginning of the period</strong> and leave belongings in locked classroom.<br>
 <strong>Assembly A:</strong>  All 2nd period Business, English, Math, Music and Science classes.<br>
 <strong>Assembly B:</strong>  All 2nd period Art, ECE, Foreign Language, Health/PE, Special Services, Social Studies and 700 building Science classes.<br>
-&nbsp;<br>`
+&nbsp;<br>`;
 document.getElementById("thesub").innerHTML = thehtml;
