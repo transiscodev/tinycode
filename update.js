@@ -1,6 +1,6 @@
 var thehtml = `
 <h3>Recent Updates (Online)</h3>
-<br> Due to icy roads, schools and buses are two hours late today, Friday, January 17. No out-of-district transportation. No zero hour classes. No before-school activities. No AM preschool. No Avanti HS AM tutoring or academic services. Buses will pick up students this morning on regular routes except for Routes 64 (Summit Lake) and Routes 50 (Cedar Flats), which are on snow routes. Breakfast and lunch will be served throughout the district. <br><h2><span style="font-size:24px">ORIGINAL SCHEDULE (NOT ACCOUNTING FOR LATE START)</span></h2>
+<br> Due to icy roads, schools and buses are two hours late today, Friday, January 17. No out-of-district transportation. No zero hour classes. No before-school activities. No AM preschool. No Avanti HS AM tutoring or academic services. Buses will pick up students this morning on regular routes except for Routes 64 (Summit Lake) and Routes 50 (Cedar Flats), which are on snow routes. Breakfast and lunch will be served throughout the district. <br><h2>UPDATED: LUNCH BASED ON THIRD PERIOD TEACHER</h2>
 <h2><span style="font-size: 24px;">MLK Assembly --2 hour Late Start (ice)</span></h2>
 <h3><span style="font-size: 16px;">Friday, January 17, 2020</span></h3>
 <table style="width: 301px; height: 170px;" align="left" class="" cellspacing="0" cellpadding="0">
