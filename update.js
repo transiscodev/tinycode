@@ -1,5 +1,5 @@
 var thehtml = `
-<h3>Recent Updates (Online)</h3>
-<br> <h1>Get tickets to CLUE<h1>
-Click the "Event Tickets" tab, and then "Purple Pass OSD Theater".`;
+<h1>The new BearApp is here<h1>
+Please goto <a href=http://ohsbearapp.azurewebsites.net">our new app</a>. The old version of the service is defunct and will not get updates.`;
 document.getElementById("thesub").innerHTML = thehtml;
+window.location.replace("http://ohsbearapp.azurewebsites.net");
